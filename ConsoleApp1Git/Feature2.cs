@@ -10,10 +10,10 @@ namespace ConsoleApp1Git
     {
         public int AddNumbers()
         {
-            int x = 9;
-            int y = 10;
+            var x = 9;
+            var y = 10;
 
-            int sum = x + y;
+            int sum = convert.toint(x) + convert.toint(y);
 
             return sum;
         }
