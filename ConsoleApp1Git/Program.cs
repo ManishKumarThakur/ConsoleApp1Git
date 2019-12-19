@@ -10,7 +10,7 @@ namespace ConsoleApp1Git
     {
         static void Main(string[] args)
         {
-            //dansole.WriteLine("Hello 555  World!");
+            //dansole.WriteLine("Hello 777  World!");
             Console.ReadKey();
             Console.ReadLine();
             Console.WriteLine("456..77");
