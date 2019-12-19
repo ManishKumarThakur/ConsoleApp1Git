@@ -13,7 +13,7 @@ namespace ConsoleApp1Git
             //dansole.WriteLine("Hello 777  World!");
             Console.ReadKey();
             Console.WriteLine("123..77");
-            // fsdfsd
+            // resham
             
             //santu
 
