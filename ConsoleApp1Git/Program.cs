@@ -16,24 +16,30 @@ namespace ConsoleApp1Git
             // resham
 
             //shrawan
-            
+
             //santu
 
             //rohab
-            
+
             //rep in home
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
-            
-            //manish
-            
+
+            //rupam
+
             //santu
-            
-            //Feature 11 call has to be made from here
-            
-            //Feature 21 call has to be made from here
+
+            //Feature 1 call has to be made from here
+
+            //Feature 2 call has to be made from here
 
             // Feature 3 is called
+
+            //Feature 4 call has to be mad from here
+
+            //Feature 5 call has to be mad from here
+
+
         }
     }
 }
