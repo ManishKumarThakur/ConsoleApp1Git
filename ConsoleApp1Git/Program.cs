@@ -12,7 +12,8 @@ namespace ConsoleApp1Git
         {
             //dansole.WriteLine("Hello 555  World!");
             Console.ReadKey();
-            Console.WriteLine("123..77");
+            Console.ReadLine();
+            Console.WriteLine("456..77");
             // fsdfsd
             
             //santu
