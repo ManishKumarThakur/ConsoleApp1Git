@@ -14,7 +14,7 @@ namespace ConsoleApp1Git
             // Press Ctrl+F5 (dadasdadaaor go to Deggggggbug > Start Without Debugging) to run your app.
             Console.WriteLine("Hello dadad!");
             Console.ReadKey();
-            Console.WriteLine("123..5590");
+            Console.WriteLine("123..55901");
             // fsdfsd
             
             //santu
