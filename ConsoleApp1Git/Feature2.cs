@@ -8,14 +8,9 @@ namespace ConsoleApp1Git
 {
     class Feature2
     {
-        public int AddNumbers()
+        public int AddNumbers(int x,int y)
         {
-            int x = 9;
-            int y = 10;
-
-            int sum = x + y;
-
-            return sum;
+            return x + y;
         }
     }
 }
