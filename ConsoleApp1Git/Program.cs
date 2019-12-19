@@ -10,7 +10,7 @@ namespace ConsoleApp1Git
     {
         static void Main(string[] args)
         {
-            //dansole.WriteLine("Hello 4324 World!");
+            //dansole.WriteLine("Hello 555  World!");
             Console.ReadKey();
             Console.WriteLine("123..669011");
             // fsdfsd
