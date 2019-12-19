@@ -12,7 +12,7 @@ namespace ConsoleApp1Git
         {
             //dansole.WriteLine("Hello 4324 World!");
             Console.ReadKey();
-            Console.WriteLine("123..669011");
+            Console.WriteLine("123..77");
             // fsdfsd
             
             //santu
